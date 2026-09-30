@@ -4,7 +4,7 @@
 
 **Живой промосайт напитков с выразительной типографикой, мягкой палитрой и интерактивными CSS-макетами банок.**
 
-[Открыть сайт](https://zigi-zagi.vercel.app/) · [Посмотреть код](https://github.com/yessensiv/zigi-zagi)
+[Открыть сайт](https://zaga-zaga.vercel.app/) · [Посмотреть код](https://github.com/yessensiv/zaga-zaga)
 
 </div>
 
